@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 
 gem 'rails-assets-modernizr'
 gem 'rails-assets-gumby'
+gem 'rails-assets-markdown-js'

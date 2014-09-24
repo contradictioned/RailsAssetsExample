@@ -17,9 +17,11 @@
   </div>
   <div class="field">
     <%= f.label :content %>
-    <%= f.text_field :content, class: 'input' %>
+    <%= f.text_area :content, class: 'input textarea' %>
   </div>
   <div class="medium primary btn">
     <%= f.submit %>
+  </div>
+  <div id="preview">
   </div>
 <% end %>

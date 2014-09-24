@@ -12,7 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require markdown-js/dist/markdown.js
 //= require modernizr
 //= require gumby
 //= require turbolinks
+//= require posts
 //= require_tree .
+
